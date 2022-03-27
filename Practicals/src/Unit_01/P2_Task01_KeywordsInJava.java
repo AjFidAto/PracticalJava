@@ -10,7 +10,7 @@ public class P2_Task01_KeywordsInJava {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int double = 1;
-		int new)(){
+		int new(){
 			System.out.println();
 			return 0;
 		}
