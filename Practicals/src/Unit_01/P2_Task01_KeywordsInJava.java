@@ -36,6 +36,3 @@ class ABC{
 		System.out.println("Another Class..2!");
 	}
 }
-	}
-
-}
